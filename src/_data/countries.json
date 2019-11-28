@@ -1,0 +1,1242 @@
+[
+  {
+    "ioc": "AFG",
+    "alpha2": "AF",
+    "name": "Afghanistan",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "ALB",
+    "alpha2": "AL",
+    "name": "Albania",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "ALG",
+    "alpha2": "DZ",
+    "name": "Algeria",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "AND",
+    "alpha2": "AD",
+    "name": "Andorra",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "ANG",
+    "alpha2": "AO",
+    "name": "Angola",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "ANT",
+    "alpha2": "AG",
+    "name": "Antigua and Barbuda",
+    "continent": "America"
+  },
+  {
+    "ioc": "ARG",
+    "alpha2": "AR",
+    "name": "Argentina",
+    "continent": "America"
+  },
+  {
+    "ioc": "ARM",
+    "alpha2": "AM",
+    "name": "Armenia",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "ARU",
+    "alpha2": "AW",
+    "name": "Aruba",
+    "continent": "America"
+  },
+  {
+    "ioc": "ASA",
+    "alpha2": "AS",
+    "name": "American Samoa",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "AUS",
+    "alpha2": "AU",
+    "name": "Australia",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "AUT",
+    "alpha2": "AT",
+    "name": "Austria",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "AZE",
+    "alpha2": "AZ",
+    "name": "Azerbaijan",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "BAH",
+    "alpha2": "BS",
+    "name": "Bahamas",
+    "continent": "America"
+  },
+  {
+    "ioc": "BAN",
+    "alpha2": "BD",
+    "name": "Bangladesh",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "BAR",
+    "alpha2": "BB",
+    "name": "Barbados",
+    "continent": "America"
+  },
+  {
+    "name": "Basque Country",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "BDI",
+    "alpha2": "BI",
+    "name": "Burundi",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "BEL",
+    "alpha2": "BE",
+    "name": "Belgium",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "BEN",
+    "alpha2": "BJ",
+    "name": "Benin",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "BER",
+    "alpha2": "BM",
+    "name": "Bermuda",
+    "continent": "America"
+  },
+  {
+    "ioc": "BHU",
+    "alpha2": "BT",
+    "name": "Bhutan",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "BIH",
+    "alpha2": "BA",
+    "name": "Bosnia and Herzegovina",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "BIZ",
+    "alpha2": "BZ",
+    "name": "Belize",
+    "continent": "America"
+  },
+  {
+    "ioc": "BLR",
+    "alpha2": "BY",
+    "name": "Belarus",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "BOL",
+    "alpha2": "BO",
+    "name": "Bolivia",
+    "continent": "America"
+  },
+  {
+    "ioc": "BOT",
+    "alpha2": "BW",
+    "name": "Botswana",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "BRA",
+    "alpha2": "BR",
+    "name": "Brazil",
+    "continent": "America"
+  },
+  {
+    "ioc": "BRN",
+    "alpha2": "BH",
+    "name": "Bahrain",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "BRU",
+    "alpha2": "BN",
+    "name": "Brunei",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "BUL",
+    "alpha2": "BG",
+    "name": "Bulgaria",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "BUR",
+    "alpha2": "BF",
+    "name": "Burkina Faso",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "CAF",
+    "alpha2": "CF",
+    "name": "Central African Republic",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "CAM",
+    "alpha2": "KH",
+    "name": "Cambodia",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "CAN",
+    "alpha2": "CA",
+    "name": "Canada",
+    "continent": "America"
+  },
+  {
+    "ioc": "CAY",
+    "alpha2": "KY",
+    "name": "Cayman Islands",
+    "continent": "America"
+  },
+  {
+    "ioc": "CGO",
+    "alpha2": "CG",
+    "name": "Republic of the Congo",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "CHA",
+    "alpha2": "TD",
+    "name": "Chad",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "CHI",
+    "alpha2": "CL",
+    "name": "Chile",
+    "continent": "America"
+  },
+  {
+    "ioc": "CHN",
+    "alpha2": "CN",
+    "name": "China",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "CIV",
+    "alpha2": "CI",
+    "name": "Ivory Coast",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "CMR",
+    "alpha2": "CM",
+    "name": "Cameroon",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "COD",
+    "alpha2": "CD",
+    "name": "Democratic Republic of the Congo",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "COK",
+    "alpha2": "CK",
+    "name": "Cook Islands",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "COL",
+    "alpha2": "CO",
+    "name": "Colombia",
+    "continent": "America"
+  },
+  {
+    "ioc": "COM",
+    "alpha2": "KM",
+    "name": "Comoros",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "CPV",
+    "alpha2": "CV",
+    "name": "Cape Verde",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "CRC",
+    "alpha2": "CR",
+    "name": "Costa Rica",
+    "continent": "America"
+  },
+  {
+    "ioc": "CRO",
+    "alpha2": "HR",
+    "name": "Croatia",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "CUB",
+    "alpha2": "CU",
+    "name": "Cuba",
+    "continent": "America"
+  },
+  {
+    "ioc": "CYP",
+    "alpha2": "CY",
+    "name": "Cyprus",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "CZE",
+    "alpha2": "CZ",
+    "name": "Czech Republic",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "DEN",
+    "alpha2": "DK",
+    "name": "Denmark",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "DJI",
+    "alpha2": "DJ",
+    "name": "Djibouti",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "DMA",
+    "alpha2": "DM",
+    "name": "Dominica",
+    "continent": "America"
+  },
+  {
+    "ioc": "DOM",
+    "alpha2": "DO",
+    "name": "Dominican Republic",
+    "continent": "America"
+  },
+  {
+    "ioc": "ECU",
+    "alpha2": "EC",
+    "name": "Ecuador",
+    "continent": "America"
+  },
+  {
+    "ioc": "EGY",
+    "alpha2": "EG",
+    "name": "Egypt",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "ERI",
+    "alpha2": "ER",
+    "name": "Eritrea",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "ESA",
+    "alpha2": "SV",
+    "name": "El Salvador",
+    "continent": "America"
+  },
+  {
+    "ioc": "ESP",
+    "alpha2": "ES",
+    "name": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "EST",
+    "alpha2": "EE",
+    "name": "Estonia",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "ETH",
+    "alpha2": "ET",
+    "name": "Ethiopia",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "FIJ",
+    "alpha2": "FJ",
+    "name": "Fiji",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "FIN",
+    "alpha2": "FI",
+    "name": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "FRA",
+    "alpha2": "FR",
+    "name": "France",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "FSM",
+    "alpha2": "FM",
+    "name": "Federated States of Micronesia",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "GAB",
+    "alpha2": "GA",
+    "name": "Gabon",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "GAM",
+    "alpha2": "GM",
+    "name": "The Gambia",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "GBR",
+    "alpha2": "GB",
+    "name": "United Kingdom",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "GBS",
+    "alpha2": "GW",
+    "name": "Guinea-Bissau",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "GEO",
+    "alpha2": "GE",
+    "name": "Georgia",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "GEQ",
+    "alpha2": "GQ",
+    "name": "Equatorial Guinea",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "GER",
+    "alpha2": "DE",
+    "name": "Germany",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "GHA",
+    "alpha2": "GH",
+    "name": "Ghana",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "GRE",
+    "alpha2": "GR",
+    "name": "Greece",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "GRN",
+    "alpha2": "GD",
+    "name": "Grenada",
+    "continent": "America"
+  },
+  {
+    "ioc": "GUA",
+    "alpha2": "GT",
+    "name": "Guatemala",
+    "continent": "America"
+  },
+  {
+    "ioc": "GUI",
+    "alpha2": "GN",
+    "name": "Guinea",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "GUM",
+    "alpha2": "GU",
+    "name": "Guam",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "GUY",
+    "alpha2": "GY",
+    "name": "Guyana",
+    "continent": "America"
+  },
+  {
+    "ioc": "HAI",
+    "alpha2": "HT",
+    "name": "Haiti",
+    "continent": "America"
+  },
+  {
+    "ioc": "HKG",
+    "alpha2": "HK",
+    "name": "Hong Kong, China",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "HON",
+    "alpha2": "HN",
+    "name": "Honduras",
+    "continent": "America"
+  },
+  {
+    "ioc": "HUN",
+    "alpha2": "HU",
+    "name": "Hungary",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "INA",
+    "alpha2": "ID",
+    "name": "Indonesia",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "IND",
+    "alpha2": "IN",
+    "name": "India",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "IRI",
+    "alpha2": "IR",
+    "name": "Iran",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "IRL",
+    "alpha2": "IE",
+    "name": "Ireland",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "IRQ",
+    "alpha2": "IQ",
+    "name": "Iraq",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "ISL",
+    "alpha2": "IS",
+    "name": "Iceland",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "ISR",
+    "alpha2": "IL",
+    "name": "Israel",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "ISV",
+    "alpha2": "VI",
+    "name": "Virgin Islands",
+    "continent": "America"
+  },
+  {
+    "ioc": "ITA",
+    "alpha2": "IT",
+    "name": "Italy",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "IVB",
+    "alpha2": "VG",
+    "name": "British Virgin Islands",
+    "continent": "America"
+  },
+  {
+    "ioc": "JAM",
+    "alpha2": "JM",
+    "name": "Jamaica",
+    "continent": "America"
+  },
+  {
+    "ioc": "JOR",
+    "alpha2": "JO",
+    "name": "Jordan",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "JPN",
+    "alpha2": "JP",
+    "name": "Japan",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "KAZ",
+    "alpha2": "KZ",
+    "name": "Kazakhstan",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "KEN",
+    "alpha2": "KE",
+    "name": "Kenya",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "KGZ",
+    "alpha2": "KG",
+    "name": "Kyrgyzstan",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "KIR",
+    "alpha2": "KI",
+    "name": "Kiribati",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "KOR",
+    "alpha2": "KR",
+    "name": "Korea South",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "KOS",
+    "alpha2": "XK",
+    "name": "Kosovo",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "KSA",
+    "alpha2": "SA",
+    "name": "Saudi Arabia",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "KUW",
+    "alpha2": "KW",
+    "name": "Kuwait",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "LAO",
+    "alpha2": "LA",
+    "name": "Laos",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "LAT",
+    "alpha2": "LV",
+    "name": "Latvia",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "LBA",
+    "alpha2": "LY",
+    "name": "Libya",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "LBN",
+    "alpha2": "LB",
+    "name": "Lebanon",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "LBR",
+    "alpha2": "LR",
+    "name": "Liberia",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "LCA",
+    "alpha2": "LC",
+    "name": "Saint Lucia",
+    "continent": "America"
+  },
+  {
+    "ioc": "LES",
+    "alpha2": "LS",
+    "name": "Lesotho",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "LIE",
+    "alpha2": "LI",
+    "name": "Liechtenstein",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "LTU",
+    "alpha2": "LT",
+    "name": "Lithuania",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "LUX",
+    "alpha2": "LU",
+    "name": "Luxembourg",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "MAD",
+    "alpha2": "MG",
+    "name": "Madagascar",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "MAR",
+    "alpha2": "MA",
+    "name": "Morocco",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "MAS",
+    "alpha2": "MY",
+    "name": "Malaysia",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "MAW",
+    "alpha2": "MW",
+    "name": "Malawi",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "MDA",
+    "alpha2": "MD",
+    "name": "Moldova",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "MDV",
+    "alpha2": "MV",
+    "name": "Maldives",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "MEX",
+    "alpha2": "MX",
+    "name": "Mexico",
+    "continent": "America"
+  },
+  {
+    "ioc": "MGL",
+    "alpha2": "MN",
+    "name": "Mongolia",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "MHL",
+    "alpha2": "MH",
+    "name": "Marshall Islands",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "MKD",
+    "alpha2": "MK",
+    "name": "North Macedonia",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "MLI",
+    "alpha2": "ML",
+    "name": "Mali",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "MLT",
+    "alpha2": "MT",
+    "name": "Malta",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "MNE",
+    "alpha2": "ME",
+    "name": "Montenegro",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "MON",
+    "alpha2": "MC",
+    "name": "Monaco",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "MOZ",
+    "alpha2": "MZ",
+    "name": "Mozambique",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "MRI",
+    "alpha2": "MU",
+    "name": "Mauritius",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "MTN",
+    "alpha2": "MR",
+    "name": "Mauritania",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "MYA",
+    "alpha2": "MM",
+    "name": "Myanmar",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "NAM",
+    "alpha2": "NA",
+    "name": "Namibia",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "NCA",
+    "alpha2": "NI",
+    "name": "Nicaragua",
+    "continent": "America"
+  },
+  {
+    "ioc": "NED",
+    "alpha2": "NL",
+    "name": "Netherlands",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "NEP",
+    "alpha2": "NP",
+    "name": "Nepal",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "NGR",
+    "alpha2": "NG",
+    "name": "Nigeria",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "NIG",
+    "alpha2": "NE",
+    "name": "Niger",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "NOR",
+    "alpha2": "NO",
+    "name": "Norway",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "NRU",
+    "alpha2": "NR",
+    "name": "Nauru",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "NZL",
+    "alpha2": "NZ",
+    "name": "New Zealand",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "OMA",
+    "alpha2": "OM",
+    "name": "Oman",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "PAK",
+    "alpha2": "PK",
+    "name": "Pakistan",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "PAN",
+    "alpha2": "PA",
+    "name": "Panama",
+    "continent": "America"
+  },
+  {
+    "ioc": "PAR",
+    "alpha2": "PY",
+    "name": "Paraguay",
+    "continent": "America"
+  },
+  {
+    "ioc": "PER",
+    "alpha2": "PE",
+    "name": "Peru",
+    "continent": "America"
+  },
+  {
+    "ioc": "PHI",
+    "alpha2": "PH",
+    "name": "Philippines",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "PLE",
+    "alpha2": "PS",
+    "name": "Palestine",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "PLW",
+    "alpha2": "PW",
+    "name": "Palau",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "PNG",
+    "alpha2": "PG",
+    "name": "Papua New Guinea",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "POL",
+    "alpha2": "PL",
+    "name": "Poland",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "POR",
+    "alpha2": "PT",
+    "name": "Portugal",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "PRK",
+    "alpha2": "KP",
+    "name": "North Korea",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "PUR",
+    "alpha2": "PR",
+    "name": "Puerto Rico",
+    "continent": "America"
+  },
+  {
+    "ioc": "QAT",
+    "alpha2": "QA",
+    "name": "Qatar",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "ROU",
+    "alpha2": "RO",
+    "name": "Romania",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "RSA",
+    "alpha2": "ZA",
+    "name": "South Africa",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "RUS",
+    "alpha2": "RU",
+    "name": "Russian Federation",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "RWA",
+    "alpha2": "RW",
+    "name": "Rwanda",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "SAM",
+    "alpha2": "WS",
+    "name": "Samoa",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "SEN",
+    "alpha2": "SN",
+    "name": "Senegal",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "SEY",
+    "alpha2": "SC",
+    "name": "Seychelles",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "SGP",
+    "alpha2": "SG",
+    "name": "Singapore",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "SKN",
+    "alpha2": "KN",
+    "name": "Saint Kitts and Nevis",
+    "continent": "America"
+  },
+  {
+    "ioc": "SLE",
+    "alpha2": "SL",
+    "name": "Sierra Leone",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "SLO",
+    "alpha2": "SI",
+    "name": "Slovenia",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "SMR",
+    "alpha2": "SM",
+    "name": "San Marino",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "SOL",
+    "alpha2": "SB",
+    "name": "Solomon Islands",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "SOM",
+    "alpha2": "SO",
+    "name": "Somalia",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "SRB",
+    "alpha2": "RS",
+    "name": "Serbia",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "SRI",
+    "alpha2": "LK",
+    "name": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "SSD",
+    "alpha2": "SS",
+    "name": "South Sudan",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "STP",
+    "alpha2": "ST",
+    "name": "São Tomé and Príncipe",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "SUD",
+    "alpha2": "SD",
+    "name": "Sudan",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "SUI",
+    "alpha2": "CH",
+    "name": "Switzerland",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "SUR",
+    "alpha2": "SR",
+    "name": "Suriname",
+    "continent": "America"
+  },
+  {
+    "ioc": "SVK",
+    "alpha2": "SK",
+    "name": "Slovakia",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "SWE",
+    "alpha2": "SE",
+    "name": "Sweden",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "SWZ",
+    "alpha2": "SZ",
+    "name": "Swaziland",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "SYR",
+    "alpha2": "SY",
+    "name": "Syria",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "TAN",
+    "alpha2": "TZ",
+    "name": "Tanzania",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "TGA",
+    "alpha2": "TO",
+    "name": "Tonga",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "THA",
+    "alpha2": "TH",
+    "name": "Thailand",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "TJK",
+    "alpha2": "TJ",
+    "name": "Tajikistan",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "TKM",
+    "alpha2": "TM",
+    "name": "Turkmenistan",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "TLS",
+    "alpha2": "TL",
+    "name": "East Timor",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "TOG",
+    "alpha2": "TG",
+    "name": "Togo",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "TPE",
+    "alpha2": "TW",
+    "name": "Chinese Taipei",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "TTO",
+    "alpha2": "TT",
+    "name": "Trinidad and Tobago",
+    "continent": "America"
+  },
+  {
+    "ioc": "TUN",
+    "alpha2": "TN",
+    "name": "Tunisia",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "TUR",
+    "alpha2": "TR",
+    "name": "Turkey",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "TUV",
+    "alpha2": "TV",
+    "name": "Tuvalu",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "UAE",
+    "alpha2": "AE",
+    "name": "United Arab Emirates",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "UGA",
+    "alpha2": "UG",
+    "name": "Uganda",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "UKR",
+    "alpha2": "UA",
+    "name": "Ukraine",
+    "continent": "Europe"
+  },
+  {
+    "ioc": "URU",
+    "alpha2": "UY",
+    "name": "Uruguay",
+    "continent": "America"
+  },
+  {
+    "ioc": "USA",
+    "alpha2": "US",
+    "name": "United States",
+    "continent": "America"
+  },
+  {
+    "ioc": "UZB",
+    "alpha2": "UZ",
+    "name": "Uzbekistan",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "VAN",
+    "alpha2": "VU",
+    "name": "Vanuatu",
+    "continent": "Oceania"
+  },
+  {
+    "ioc": "VEN",
+    "alpha2": "VE",
+    "name": "Venezuela",
+    "continent": "America"
+  },
+  {
+    "ioc": "VIE",
+    "alpha2": "VN",
+    "name": "Vietnam",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "VIN",
+    "alpha2": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "continent": "America"
+  },
+  {
+    "ioc": "YEM",
+    "alpha2": "YE",
+    "name": "Yemen",
+    "continent": "Asia"
+  },
+  {
+    "ioc": "ZAM",
+    "alpha2": "ZM",
+    "name": "Zambia",
+    "continent": "Africa"
+  },
+  {
+    "ioc": "ZIM",
+    "alpha2": "ZW",
+    "name": "Zimbabwe",
+    "continent": "Africa"
+  }
+]

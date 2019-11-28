@@ -1,0 +1,99 @@
+:root {
+  --body-font: 'Barlow', sans-serif;
+  --heading-font: 'Barlow Semi Condensed', sans-serif;
+  --base: 1rem;
+  --type-scale: 1.5;
+
+  --s1: var(--base);
+  --s2: calc(var(--type-scale) * var(--s1));
+  --s3: calc(var(--type-scale) * var(--s2));
+  --s4: calc(var(--type-scale) * var(--s3));
+  --s-1: calc(var(--s1) / var(--type-scale));
+  --s-2: calc(var(--s-1) / var(--type-scale));
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ddd;
+  color: #333;
+  font-family: var(--body-font);
+  line-height: 1.5;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #092261;
+  font-family: var(--heading-font);
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+h1 {font-size: var(--s4);}
+h2 {font-size: var(--s3);}
+h3 {font-size: var(--s2);}
+h4 {font-size: var(--s1);}
+h5 {font-size: 0.618rem;}
+h6 {font-size: 0.382rem;}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+ol {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+header {
+  padding-top: 128px;
+  padding-bottom: 16px;
+}
+
+header img {
+  display: block;
+  width: 128px;
+}
+
+main {
+  background-color: #fff;
+  display: flex;
+  margin-bottom: 64px;
+  margin-left: -32px;
+  width: calc(100% + 64px);
+  padding: 32px;
+}
+
+article {
+  flex: 1;
+}
+
+.event {
+  display: flex;
+}
+
+section {
+  flex: 1;
+}
+
+.card {
+  padding: 12px 0;
+}
+
+.card-name {
+  margin: 0;
+}
+
+.card-country {
+  color: #666;
+  font-size: 0.75rem;
+  margin: 0;
+}
