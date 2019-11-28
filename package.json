@@ -4,7 +4,6 @@
   "description": "One page site to show who's going to the Olympics",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "eleventy --input=src --output=dist",
     "start": "eleventy --serve --input=src --output=dist"
   },
@@ -13,7 +12,7 @@
     "url": "git+https://github.com/abberg/whoisskateboardingintheolympics.com.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "andrewbberg@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/abberg/whoisskateboardingintheolympics.com/issues"
