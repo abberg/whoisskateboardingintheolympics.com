@@ -3,7 +3,7 @@ module.exports = data => /*html*/`
     <div class="card-figure">
       <div 
         class="card-image"
-        style="background-image:url('img/${data.name.toLowerCase().replace(/ /g, '_')}.jpg')"
+        style="background-image:url('img/${data.name.toLowerCase().replace(/ /g, '_').replace("'", '')}.jpg')"
       ></div>
     </div>
     <div class="card-content">
