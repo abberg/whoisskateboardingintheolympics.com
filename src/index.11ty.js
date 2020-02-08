@@ -109,6 +109,56 @@ module.exports = function({rankings, countries}){
                 title="World Skate / SLS World Championships"
               >Street</a> automatically qualify.
             </p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/S_toqg-EkHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </section>
+          <section>
+            <h2>How many more chances to qualify?</h2>
+            <ol class="timeline">
+              <li class="timeline-item">
+                <h3>World Skate Oceania Street Championship</h3>
+                <p>February 13 - 15, 2020, Melbourne, Australia</p>
+              </li>
+              <li class="timeline-item">
+                <h3>World Skate Asian Street Skateboarding Championship</h3>
+                <p>February 19 - 23, 2020, Singapore</p>
+              </li>
+              <li class="timeline-item">
+                <h3>World Skate Street and Park</h3>
+                <p>March 16 - 22, 2020, Lima, Peru</p>
+              </li>
+              <li class="timeline-item">
+                <h3>Street League World Tour</h3>
+                <p>March 26 - 28, 2020, Las Vegas, Nevada</p>
+              </li>
+              <li class="timeline-item">
+                <h3>World Skate ISO Street and Park</h3>
+                <p>April 6 - 12, 2020, Yancheng, China</p>
+              </li>
+              <li class="timeline-item">
+                <h3>World Skate ISO Street</h3>
+                <p>April 14 - 19, 2020, Nanjing, China</p>
+              </li>
+              <li class="timeline-item">
+                <h3>World Skate Ark League Street</h3>
+                <p>April 22 - 26, 2020, Tokyo, Japan</p>
+              </li>
+              <li class="timeline-item">
+                <h3>Street League World Tour</h3>
+                <p>May 1 - 3, 2020, Beijing, China</p>
+              </li>
+              <li class="timeline-item">
+                <h3>Street League World Championships</h3>
+                <p>May 19 - 24, 2020, London, UK</p>
+              </li>
+              <li class="timeline-item">
+                <h3>World Skate Park World Championships</h3>
+                <p>May 26 - 31, 2020, Nanjing, China</p>
+              </li>
+              <li class="timeline-item">
+                <h3>Olympics</h3>
+                <p>July 24 - August 9, 2020, Tokyo, Japan</p>
+              </li>
+            </ol>
           </section>
         </main>
       </body>
